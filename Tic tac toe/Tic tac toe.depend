@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1513537668 source:e:\azmeer\1 project\final\tic tac toe\main.c
+	<stdio.h>
+	<stdlib.h>
+

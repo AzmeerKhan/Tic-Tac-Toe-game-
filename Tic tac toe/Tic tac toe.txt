@@ -1,0 +1,87 @@
+Main menu
+
+
+                 ***********
+                  MAIN MENU
+                 ***********
+
+
+            For PLAY    Press : P
+            For HELP    press : H
+            For QUIT    press : Q
+
+
+For Quit --> Q
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Help
+
+
+                      ******
+                       HELP
+                      ******
+
+
+            For ABOUT        Press  : A
+            For RULES        press  : R
+            For COMTROLS     press  : C
+            For MAIN MENU    press  : B
+
+
+Back --> B
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+About
+
+
+            ABOUT:-
+            -----
+            Tic-tac-toe (also known as noughts and crosses or Xs and Os)
+            is a game for two players, X and O, who take turns marking
+            the spaces in a 3x3 grid. The player who succeeds in placing
+            three of their marks in a horizontal, vertical, or diagonal
+            row wins the game.
+
+
+Press any key:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Rules
+
+
+            RULES:-
+            -----
+            1. The game is play on a grid that's 3 squares by 3 squares.
+
+                                       |     |
+                               --------+-----+--------
+                                       |     |
+                               --------+-----+--------
+                                       |     |
+
+            2. Players take turns by putting their marks in empty squares.
+
+            3. X always goes first.
+
+            4. You cannot occupy a square that is already occupied.
+
+            5. The first player who gets 3 of his marks in a row
+               (up, down, across, or diagonally) is the winner.
+               For example,
+
+                     X   |     |               O   |     |
+                 --------+-----+--------   --------+-----+--------
+                     X   |     |                   |  O  |
+                 --------+-----+--------   --------+-----+--------
+                     X   |     |                   |     |  O
+
+            6. When all 9 squares are full, the game is over. If no
+               player has 3 marks in a row, the game ends in a tie.
+               For example,
+
+                                   X   |  O  |   X
+                               --------+-----+--------
+                                   O   |  X  |   X
+                               --------+-----+--------
+                                   O   |  X  |   O
+
+
+press any key:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
